@@ -1,0 +1,35 @@
+<style>
+    table, tr, td {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+    <tr>
+        <th>fruit</th>
+        <th>cost ($)</th>
+        <caption><b>Cost of Fruit</b><br>
+        </tr>
+        (per pound)</caption>
+    <tr>
+        <td>apples</td>
+        <td>$5</td>
+    </tr>
+    <tr>
+        <td>oranges</td>
+        <td>$7</td>
+    </tr>
+    <tr>
+        <td>grapes</td>
+        <td>$6</td>
+        <tr>
+            <td colspan="3">(prices may vary per season)</td>
+        </tr>
+
+    </tr>
+</table>
+<ul style="list-style-type: square;">
+    <li>new fruit options next week</li>
+    <li>lower prices</li>
+    <li>pumpkin sale</li>
+</ul>
