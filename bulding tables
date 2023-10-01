@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <style>
     table, tr, td {
         border: 1px solid black;
@@ -33,3 +36,6 @@
     <li>lower prices</li>
     <li>pumpkin sale</li>
 </ul>
+</body>
+</html>
+
