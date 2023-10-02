@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Math Test Form</title>
+</head>
+<body>
+    <form>
+        Name:<br />
+    <input type="text"
+    placeholder="please enter your name">
+</form>
+<form>
+    <p>
+        What is 2+2?
+    </p>
+    <input type="radio" name="answer" value="none">
+    5<br />
+<input type="radio" name="answer" value="low">
+4<br />
+<input type="radio" name="answer" value="med">
+22<br />
+
+<p>
+What is 10+10?
+</p>
+<input type="radio" name="answer" value="none">
+20<br />
+<input type="radio" name="answer" value="low">
+100<br />
+<input type="radio" name="answer" value="med">
+15<br />
+
+<p>
+What is 4+4?
+</p>
+<input type="radio" name="answer" value="none">
+44<br />
+<input type="radio" name="answer" value="low">
+11<br />
+<input type="radio" name="answer" value="med">
+8<br />
+
+<br />
+If Sasha bought 200 chocolate bars and gave 20 of them to Danny, what percent of the chococlate bars does he still have left?
+(Use signs such as &times;,	&divide; ,&plusmn;)
+<br />
+<textarea rows="5" cols="50" <input type="text"
+placeholder="please show your work">
+</textarea>
+<br />
+<br>Submit button (input tag):<br />
+<input type="submit">
+<br />
+</form>
+</body>
+</html>
