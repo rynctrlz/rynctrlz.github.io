@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Busy Day Schedule</title>
+<style>
+table {
+width: 100%;
+border-collapse: collapse;
+}
+
+th, td {
+padding: 10px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+}
+
+th {
+background-color: #d88ef5;
+}
+
+.important {
+font-weight: bold;
+color: #fa1b62;
+}
+</style>
+</head>
+<body>
+<h1>My Daily Schedule</h1>
+<table>
+<tr>
+<th>Time</th>
+<th>Event</th>
+</tr>
+<tr>
+<td>8:00 AM</td>
+<td class="important">Workout</td>
+</tr>
+<tr>
+<td>9:00 AM</td>
+<td>Finishing workout/Shower</td>
+</tr>
+<tr>
+<td>10:00 AM</td>
+<td>Reading</td>
+</tr>
+<tr>
+<td>12:00 PM</td>
+<td class="important">Schoolwork</td>
+</tr>
+<tr>
+<td>2:00 PM</td>
+<td>Errands</td>
+</tr>
+<tr>
+<td>4:00 PM</td>
+<td>Buying Supplies</td>
+</tr>
+<tr>
+<td>6:00 PM</td>
+<td class="important">Dance Practice</td>
+</tr>
+<tr>
+<td>8:00 PM</td>
+<td class="important">Schoolwork</td>
+</tr>
+</table>
+</body>
+</html>
