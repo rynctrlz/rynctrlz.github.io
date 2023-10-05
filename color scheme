@@ -1,1 +1,51 @@
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Color Scheme</title>
+  </head>
+ <body>
+   <img src="sushi.jpg"
+   width="150px" height="300"/>
+   
+   <style>
+    table, tr, td {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+  
+   <tr>
+        <th> <style="font-family:'Courier New'">Sushi </th>
+   </tr>
+   
+    <tr>
+        <td bgcolor= #EA2822>Red</td>
+        <td bgcolor= #FD5419>Orange</td>
+        <td bgcolor= #F3BF70>Beige</td>
+        <td bgcolor= #75E16E>Green</td>
+    </tr>
+     <tr>
+        <td>hex value:#EA2822</td>
+        <td>hex value:#FD5419</td>
+        <td>hex value:#F3BF70</td>
+        <td>hex value:#75E16E</td>
+    </tr>
+     <tr>
+        <td>rgb value:234, 40, 34</td>
+        <td>rgb value:253, 84, 25 </td>
+        <td>rgb value:243, 191, 112</td>
+        <td>rgb value:117, 225, 110</td>
+    </tr>
+     <tr>
+        <td>hsl value:2, 85%, 53%</td>
+        <td>hsl value:16, 90%, 55%</td>
+        <td>hsl value:36, 54%, 70%</td>
+        <td>hsl value:116, 51%, 66%</td>
+    </tr>
+</table>
+
+
+ </body>
+</html>
