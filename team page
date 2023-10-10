@@ -1,1 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Our Editing Team</title>
+<style>
 
+nav {
+background-color: #fa7df6;
+padding: 10px;
+}
+
+nav a {
+color: #25093d;
+text-decoration: none;
+margin-right: 10px;
+}
+
+
+.team-member {
+float: left;
+width: 25%;
+padding: 10px;
+box-sizing: border-box;
+}
+
+
+.team-member img {
+width: 100%;
+height: auto;
+}
+
+.team-member p {
+margin-top: 10px;
+font-size: 14px;
+line-height: 1.5;
+}
+
+#fixed-nav {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color: #333;
+padding: 10px;
+}
+</style>
+</head>
+<body>
+<nav>
+<a href="#">Introduction</a>
+<a href="#">About</a>
+<a href="#">Ask Us</a>
+<a href="#">Contact</a>
+</nav>
+
+<div class="team-member">
+<img src="mary.jpg" alt="Team Member 1">
+<p>Mary</p>
+<p>Sound</p>
+</div>
+
+<div class="team-member">
+<img src="kendall.jpg" alt="Team Member 2">
+<p>Kendall</p>
+<p>Art</p>
+</div>
+
+<div class="team-member">
+<img src="chloe.jpg" alt="Team Member 3">
+<p>Chloe</p>
+<p>Special Effects</p>
+</div>
+
+<div class="team-member">
+<img src="kourtney.jpg" alt="Team Member 4">
+<p>Kourtney</p>
+<p>Editor in Chief</p>
+</div>
+
+
+</body>
+</html>
