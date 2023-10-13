@@ -1,0 +1,14 @@
+<style>
+table {
+border: 2px dotted black;
+}
+td {
+    border:solid 2px #000000;
+    background-color:#8888AA;
+    color:#FFFFFF;
+    padding:10px;
+  }
+  tr:hover {
+font-size: 15px;
+}
+</style>
