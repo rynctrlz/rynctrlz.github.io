@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="style.css"></head>
+<body>
+   <h2>Soccer</h2>
+  <table>
+    <thead> 
+    <tr>
+      <th>Round Number</th>
+      <th>Team/Player Name</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>1</td>
+      <td>Team A</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Team B</td>
+    </tr>
+    </tbody>
+  </table>
+</body>
+</html>
